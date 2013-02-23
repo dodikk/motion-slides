@@ -1,7 +1,14 @@
+http://rubysource.com/getting-to-know-rubymotion-with-laurent-sansonetti/
 http://joshsymonds.com/blog/2012/05/04/why-rubymotion-is-better-than-objective-c/
 http://37signals.com/svn/posts/3432-why-i-loved-building-basecamp-for-iphone-in-rubymotion
 
 
+Marc Lainez ‏@mlainez
+Yesterday: Xcode => nothing good came out of it. Today: Rubymotion => almost finished an app.
+
+
+Peter Hellberg ‏@peterhellberg
+RubyMotion lets you quickly develop and test native iOS apps, all using the awesome Ruby language you know and love.
 
 
 RubyMotion ‏@RubyMotion
@@ -34,3 +41,10 @@ So I'm sitting here coding up a RubyMotion app and I *love* it. LOVE IT. I have 
 
 
 qrush: Hey Basecamp users! @37signals has a new iPhone app you want. (Also it’s written in RubyMotion!) Apply for the beta: https://t.co/eaQE7ERm
+
+
+Matthew Mongeau ‏@halogenandtoast
+The @RubyMotion app I wrote just hit the app store today. https://itunes.apple.com/us/app/fanboat/id592162965?mt=8&ls=1 …
+
+
+

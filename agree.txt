@@ -1,1 +1,13 @@
 http://www.upbeat.it/2012/05/08/on-why-i-am-not-buying-rubymotion/
+
+
+temojin ‏@temojin
+http://arstechnica.com/business/news/2012/05/exclusive-building-ruby-ios-applications-with-rubymotion.ars … -- awesome, but staying native for now. one should always strive to understand the underlaying native platform
+
+
+Hendrik Mans ‏@hmans
+RubyMotion. Mind blown. RubyMotion itself is great, but what makes it absolutely awesome is, as always, the community.
+
+
+
+
