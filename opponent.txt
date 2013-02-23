@@ -1,0 +1,6 @@
+mattlanham: If you’re looking to build an iOS app check out @RubyMotion. Cleaner syntax. As fast as obj-c. Loving it!
+
+
+
+
+qrush: Hey Basecamp users! @37signals has a new iPhone app you want. (Also it’s written in RubyMotion!) Apply for the beta: https://t.co/eaQE7ERm
