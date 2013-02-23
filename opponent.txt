@@ -1,6 +1,36 @@
+http://joshsymonds.com/blog/2012/05/04/why-rubymotion-is-better-than-objective-c/
+http://37signals.com/svn/posts/3432-why-i-loved-building-basecamp-for-iphone-in-rubymotion
+
+
+
+
+RubyMotion ‏@RubyMotion
+If you want to see an example of a clean and well-structured RubyMotion app, check out https://github.com/foeken/CarenMotion … by @dreetje
+
+
 mattlanham: If you’re looking to build an iOS app check out @RubyMotion. Cleaner syntax. As fast as obj-c. Loving it!
 
+Justin Mazzi ‏@jmazzi
+RubyMotion is pretty great. No Xcode or Interface Builder, I interact with my app via rake and I get to use Vim.
 
+
+Matt Brewer ‏@macfanatic
+@RubyMotion Love, absolutely needed.
+
+
+After years of iOS work, RubyMotion seems like a thousand kittens playing the piano while sliding down a double-rainbow.
+Johannes Fahrenkrug 
+Founder, Springenwerk
+
+
+This is AWESOME! With just minimal iOS experience, I was able to get a working app up and running on my phone. Oh, the feeling of power!
+Jim Weirich 
+Chief Scientist, EdgeCase
+
+
+
+John Blanco‏@RaptureInVenice
+So I'm sitting here coding up a RubyMotion app and I *love* it. LOVE IT. I have a few annoyances to work out, but man I'm loving this.
 
 
 qrush: Hey Basecamp users! @37signals has a new iPhone app you want. (Also it’s written in RubyMotion!) Apply for the beta: https://t.co/eaQE7ERm
