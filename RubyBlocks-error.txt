@@ -1,0 +1,21 @@
+[2/1/13 4:46:29 PM] Igor  Khomich: ========
+013-02-01 16:35:08.767 SitecoreReader[5486:16a03] -[__NSCFDictionary setObject:forKeyedSubscript(inlove): unrecognized selector sent to instance 0x8cfaca0
+String
+2013-02-01 16:35:08.942 SitecoreReader[5486:16a03] SRnetWorkLoader.rb:28:in `LoadLastItems:': NSInvalidArgumentException: -[__NSCFDictionary setObject:forKeyedSubscript(inlove): unrecognized selector sent to instance 0x8cfaca0 (RuntimeError)
+    from ReadingListController.rb:16:in `viewDidLoad'
+    from app_delegate.rb:11:in `application:didFinishLaunchingWithOptions:'
+2013-02-01 16:35:08.943 SitecoreReader[5486:16a03] *** Terminating app due to uncaught exception 'RuntimeError', reason: 'SRnetWorkLoader.rb:28:in `LoadLastItems:': NSInvalidArgumentException: -[__NSCFDictionary setObject:forKeyedSubscript(inlove): unrecognized selector sent to instance 0x8cfaca0 (RuntimeError)
+    from ReadingListController.rb:16:in `viewDidLoad'
+    from app_delegate.rb:11:in `application:didFinishLaunchingWithOptions:'
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2/1/13 4:53:09 PM] Igor  Khomich: ---------
+Objective-C stub for message `itemsReaderWithRequest:' type `@?@(angry)' not precompiled. Make sure you properly link with the framework or library that defines this message.
+((null))> rake aborted!
