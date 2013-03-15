@@ -1,0 +1,6 @@
+[submodule "ruby-demo/lib-third-party/PublicAutomation"]
+	path = ruby-demo/lib-third-party/PublicAutomation
+	url = https://github.com/TestingWithFrank/PublicAutomation.git
+[submodule "ruby-demo/lib-ruby-third-party/MotionBlocks"]
+	path = ruby-demo/lib-ruby-third-party/MotionBlocks
+	url = https://github.com/dodikk/MotionBlocks.git
